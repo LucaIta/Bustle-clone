@@ -1,0 +1,18 @@
+{
+  "articles": [{
+    "title": "Portland Has The Best Ice Cream",
+    "author": "John Doe",
+    "image": "http://www.americasdairyland.com/assets/images/EWC/Ice-Cream-Hdr.jpg",
+    "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  }, {
+    "title": "Bernie Sanders is Cool",
+    "author": "Jane Doe",
+    "image": "http://www.slate.com/content/dam/slate/articles/news_and_politics/politics/2015/07/150706_POL_Sanders.jpg.CROP.promo-xlarge2.jpg",
+    "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  }, {
+    "title": "Pizza is Super Good",
+    "author": "John Smith",
+    "image": "http://www.cicis.com/media/1138/pizza_trad_pepperoni.png",
+    "story": "Lorem ipsum dolor sit amet, consectetur adipiscing elit"
+  }]
+}
